@@ -1,7 +1,9 @@
 <!-- Banner animado ou ASCII -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&duration=3500&pause=800&start=true&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Junim+(Paulo+Celso+dos+Santos+Junior)" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Junim+(Paulo+Celso+dos+Santos+Junior)&repeat=false" alt="Typing SVG" />
 </p>
+
 
 
 <p align="center">
