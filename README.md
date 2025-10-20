@@ -4,8 +4,6 @@
     src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Junim+(Paulo+Celso+dos+Santos+Junior)&repeat=false" alt="Typing SVG" />
 </p>
 
-
-
 <p align="center">
   <b>Computer Science student @ UNESP</b> <br>
   Enthusiastic about Infrastructure ⚙️ | Networks 🌐 | DevOps 🚀 | Security 🔒
@@ -28,11 +26,9 @@ Busco uma oportunidade de estágio onde possa crescer tecnicamente, contribuir c
 ### 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hardware%20Tinkering-555555?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,github,c,python,docker,bash,vscode&theme=dark" />
+  </a>
 </p>
 
 ---
