@@ -1,11 +1,12 @@
 <!-- Banner animado ou ASCII -->
-<h1 align="center">
-  👋 Hey there, I'm Junim (Paulo Celso dos Santos Junior)
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&duration=3500&pause=800&start=true&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Junim+(Paulo+Celso+dos+Santos+Junior)" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <b>Computer Science student @ UNESP</b> <br>
-  Passionate about Infrastructure ⚙️ | Networks 🌐 | DevOps 🚀 | Security 🔒
+  Enthusiastic about Infrastructure ⚙️ | Networks 🌐 | DevOps 🚀 | Security 🔒
 </p>
 
 ---
@@ -46,8 +47,8 @@ Built with a custom **Python API** and a lightweight **frontend**.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Junim&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junim&layout=compact&theme=tokyonight" alt="Top languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Junimpsj&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junimpsj&layout=compact&theme=tokyonight" alt="Top languages"/>
 </p>
 
 ---
@@ -61,10 +62,4 @@ Built with a custom **Python API** and a lightweight **frontend**.
   <a href="mailto:p.santos-junior@unesp.br">
     <img src="https://img.shields.io/badge/Email-p.santos--junior@unesp.br-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Up%20and%20Running%20🖥️-brightgreen?style=flat-square" />
 </p>
