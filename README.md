@@ -35,7 +35,7 @@ Busco uma oportunidade de estágio onde possa crescer tecnicamente, contribuir c
 
 ### 💻 Featured Project
 
-🔗 **[Computa Tree](https://computa-tree-frontend.vercel.app)**  
+🔗 **[Computa Tree](https://computa-tree-frontend.vercel.app)** (temporariamente desativado devido a falta de host)
 A personal project made for Computer Science students at FCT UNESP.  
 It allows users to check completed and pending courses, visualize prerequisites, and track academic progress.  
 Built with a custom **Python API** and a lightweight **frontend**.
