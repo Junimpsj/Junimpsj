@@ -1,63 +1,89 @@
-<!-- Banner animado ou ASCII -->
+<!-- Terminal typing animation — preserved as you like it -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Junim+(Paulo+Celso+dos+Santos+Junior)&repeat=false" alt="Typing SVG" />
+    src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Junim+(Paulo+Celso+dos+Santos+Junior)&repeat=false"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <b>Computer Science student @ UNESP</b> <br>
-  Enthusiastic about Infrastructure ⚙️ | Networks 🌐 | DevOps 🚀 | Security 🔒
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=2000&pause=3500&color=00CC00&center=true&vCenter=true&width=700&lines=Computer+Science+%40+UNESP+%E2%80%94+Infra+%7C+Networks+%7C+DevOps+%7C+Security&repeat=false"
+    alt="Role SVG"
+  />
 </p>
 
 ---
 
-### 🌍 About Me | Sobre Mim
+```
+> whoami
+  Junim — CS student at UNESP, FCT campus.
+  Passionate about infrastructure, Linux, networks, automation, and security.
+  Currently seeking an internship where I can break things (and fix them properly).
 
-**EN** – I'm a Computer Science student at UNESP and passionate about everything related to infrastructure, networks, DevOps, and Linux systems.  
-My journey includes active participation in real-world projects at EJCOMP, where I gained hands-on experience, collaborated in teams, and took on leadership responsibilities.  
-I'm currently looking for an internship opportunity where I can grow technically, contribute with my enthusiasm, and continue learning about secure, automated, and efficient IT environments.
+> currently_learning
+  [ DevOps pipelines, container orchestration, network hardening ]
 
-**PT-BR** – Sou estudante de Ciência da Computação pela UNESP e apaixonado por tudo que envolve infraestrutura, redes, DevOps e sistemas Linux.  
-Minha trajetória inclui participação ativa em projetos na EJCOMP, onde pude aprender na prática, colaborar em equipe e assumir responsabilidades de liderança.  
-Busco uma oportunidade de estágio onde possa crescer tecnicamente, contribuir com meu entusiasmo e aprender ainda mais sobre ambientes de TI eficientes, seguros e automatizados.
+> status
+  [ OPEN TO INTERNSHIP OPPORTUNITIES ]
+```
 
 ---
 
-### 🧠 Tech Stack & Tools
+### About Me
+
+I study Computer Science at UNESP and I'm the kind of person who reads documentation for fun.  
+My focus is on the foundation layer — the stuff that makes software actually run: infrastructure, networking, Linux systems, and the security that holds it all together.
+
+At **EJCOMP** (our university's junior tech company), I worked on real-world projects, collaborated across teams, and took on leadership responsibilities earlier than most expect from a student. That experience taught me that the gap between theory and production is where the real learning happens.
+
+I like systems I can understand from the kernel up. I like automation that eliminates toil. And I'm always trying to figure out how things break before they break in production.
+
+---
+
+### Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,github,c,python,docker,bash,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,github,c,vscode&theme=dark" />
   </a>
 </p>
 
 ---
 
-### 💻 Featured Project
+### Featured Project
 
-🔗 **[Computa Tree](https://computa-tree-frontend.vercel.app)** (temporariamente desativado devido a falta de host)  
-A personal project made for Computer Science students at FCT UNESP.  
-It allows users to check completed and pending courses, visualize prerequisites, and track academic progress.  
-Built with a custom **Python API** and a lightweight **frontend**.
+**[Computa Tree](https://computa-tree-frontend.vercel.app)** *(temporarily offline — no host)*
+
+A tool built for CS students at FCT UNESP.  
+Visualize your curriculum: which courses you've completed, which are still pending, and what the prerequisites are. Tracks your academic path in one place.
+
+Stack: custom **Python API** + lightweight **frontend**.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Junimpsj&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junimpsj&layout=compact&theme=tokyonight" alt="Top languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Junimpsj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junimpsj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📬 Contact & Links
+### Reach Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paulocelsojunior" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Paulo%20Celso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:p.santos-junior@unesp.br">
-    <img src="https://img.shields.io/badge/Email-p.santos--junior@unesp.br-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-p.santos--junior@unesp.br-DD3333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=4000&pause=1000&color=00AA00&center=true&vCenter=true&width=500&lines=always+learning+%7C+always+building+%7C+always+curious"
+    alt="Footer typing"
+  />
 </p>
