@@ -61,8 +61,6 @@ Stack: custom **Python API** + lightweight **frontend**.
 
 ---
 
----
-
 ### Reach Me
 
 <p align="center">
