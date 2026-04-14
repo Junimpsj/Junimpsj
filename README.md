@@ -61,6 +61,16 @@ Stack: custom **Python API** + lightweight **frontend**.
 
 ---
 
+### Résumé
+
+<p align="center">
+  <a href="https://junimpsj.github.io/autocvjunimdevops/cv.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-PDF-1B3A5C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### Reach Me
 
 <p align="center">
