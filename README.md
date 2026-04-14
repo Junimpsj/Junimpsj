@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <a href="https://junimpsj.github.io/autocvjunimdevops/cv.pdf">📄 View my résumé</a>
+  <a href="https://junimpsj.github.io/autocvjunimdevops/cv.pdf">Curriculum Vitae</a>
 </p>
 
 ---
