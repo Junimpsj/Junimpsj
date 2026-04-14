@@ -29,6 +29,12 @@
 
 ---
 
+<p align="center">
+  <a href="https://junimpsj.github.io/autocvjunimdevops/cv.pdf">📄 View my résumé</a>
+</p>
+
+---
+
 ### About Me
 
 I study Computer Science at UNESP and I'm the kind of person who reads documentation for fun.  
@@ -58,16 +64,6 @@ A tool built for CS students at FCT UNESP.
 Visualize your curriculum: which courses you've completed, which are still pending, and what the prerequisites are. Tracks your academic path in one place.
 
 Stack: custom **Python API** + lightweight **frontend**.
-
----
-
-### Résumé
-
-<p align="center">
-  <a href="https://junimpsj.github.io/autocvjunimdevops/cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CV-PDF-1B3A5C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
