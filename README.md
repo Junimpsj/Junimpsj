@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <h3> <a href="https://junimpsj.github.io/autocvjunimdevops/cv.pdf">Curriculum Vitae</a> <h3/>
+  <h3 align="center"> <a href="https://junimpsj.github.io/autocvjunimdevops/cv.pdf">Curriculum Vitae</a> <h3/>
 </p>
 
 ---
