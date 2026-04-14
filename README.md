@@ -37,12 +37,12 @@
 
 ### About Me
 
-I study Computer Science at UNESP and I'm the kind of person who reads documentation for fun.  
-My focus is on the foundation layer — the stuff that makes software actually run: infrastructure, networking, Linux systems, and the security that holds it all together.
+I study Computer Science at UNESP.
+My focus is on the foundation layer that makes software actually run: infrastructure, networking, Linux systems, and the security that holds it all together.
 
-At **EJCOMP** (our university's junior tech company), I worked on real-world projects, collaborated across teams, and took on leadership responsibilities earlier than most expect from a student. That experience taught me that the gap between theory and production is where the real learning happens.
+At **EJCOMP** (our university's junior tech company), I worked on real-world projects, collaborated across teams, and took on leadership responsibilities earlier than most expect from a student.
 
-I like systems I can understand from the kernel up. I like automation that eliminates toil. And I'm always trying to figure out how things break before they break in production.
+Currently studying more....
 
 ---
 
@@ -77,10 +77,4 @@ Stack: custom **Python API** + lightweight **frontend**.
   <a href="mailto:p.santos-junior@unesp.br">
     <img src="https://img.shields.io/badge/Email-p.santos--junior@unesp.br-DD3333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=4000&pause=1000&color=00AA00&center=true&vCenter=true&width=500&lines=always+learning+%7C+always+building+%7C+always+curious"
-    alt="Footer typing"
-  />
 </p>
