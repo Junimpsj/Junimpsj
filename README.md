@@ -30,7 +30,9 @@
 ---
 
 <p align="center">
-  <a href="https://junimpsj.github.io/autocvjunimdevops/cv.pdf">Curriculum Vitae</a>
+  <a href="https://junimpsj.github.io/autocvjunimdevops/cv.pdf">
+    <img src="https://img.shields.io/badge/Curriculum%20Vitae-0A66C2?style=flat-square&logoColor=white"/>
+  </a>
 </p>
 
 ---
