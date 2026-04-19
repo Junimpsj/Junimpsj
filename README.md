@@ -51,20 +51,9 @@ Currently studying more....
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,github,c,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,c,java,docker,vscode&theme=dark" />
   </a>
 </p>
-
----
-
-### Featured Project
-
-**[Computa Tree](https://computa-tree-frontend.vercel.app)** *(temporarily offline — no host)*
-
-A tool built for CS students at FCT UNESP.  
-Visualize your curriculum: which courses you've completed, which are still pending, and what the prerequisites are. Tracks your academic path in one place.
-
-Stack: custom **Python API** + lightweight **frontend**.
 
 ---
 
