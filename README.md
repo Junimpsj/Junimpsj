@@ -29,7 +29,7 @@
 
 ---
 
-  <h3 align="center"> <a href="https://junimpsj.github.io/autocvjunimdevops/cv.pdf">Curriculum Vitae</a> <h3/>
+  <h3 align="center"> <a href="https://cv.junimdev.com.br/cv.pdf">Curriculum Vitae</a> <h3/>
 
   <h3 align="center"> <a href="https://junimdev.com.br/">junimdev.com.br<a/> </h3>
   <p align="center">Meu portfolio pessoal!</p>
