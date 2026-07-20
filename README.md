@@ -1,61 +1,20 @@
-<!-- Terminal typing animation — preserved as you like it -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Junim+(Paulo+Celso+dos+Santos+Junior)&repeat=false"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=2000&pause=3500&color=00CC00&center=true&vCenter=true&width=700&lines=Computer+Science+%40+UNESP+%E2%80%94+Infra+%7C+Networks+%7C+DevOps+%7C+Security&repeat=false"
-    alt="Role SVG"
-  />
-</p>
-
----
-
 ```
 > whoami
-  Junim — CS student at UNESP, FCT campus.
-  Passionate about infrastructure, Linux, networks, automation, and security.
-  Currently seeking an internship where I can break things (and fix them properly).
-
-> currently_learning
-  [ DevOps pipelines, container orchestration, network hardening ]
-
-> status
-  [ OPEN TO INTERNSHIP OPPORTUNITIES ]
+  Junim (Paulo Celso dos Santos Junior)
+  Computer Science student @ UNESP, FCT campus
+  Interested in networks and infrastructure
+  I like understanding how things work
 ```
 
----
-
-  <h3 align="center"> <a href="https://cv.junimdev.com.br/cv.pdf">Curriculum Vitae</a> <h3/>
-
-  <h3 align="center"> <a href="https://junimdev.com.br/">junimdev.com.br<a/> </h3>
-  <p align="center">Meu portfolio pessoal!</p>
-
----
-
-### About Me
-
-I study Computer Science at UNESP.
-My focus is on the foundation layer that makes software actually run: infrastructure, networking, Linux systems, and the security that holds it all together.
-
-At **EJCOMP** (our university's junior tech company), I worked on real-world projects, collaborated across teams, and took on leadership responsibilities earlier than most expect from a student.
-
-Currently studying more....
-
----
+<p align="center"><a href="https://junimdev.com.br/">junimdev.com.br</a></p>
 
 ### Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,c,java,docker,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,git,c,python,java,sql&theme=dark" />
   </a>
 </p>
-
----
 
 ### Reach Me
 
