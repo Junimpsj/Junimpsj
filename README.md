@@ -34,6 +34,12 @@ Open to opportunities.
 | **[Sentinela](https://github.com/Junimpsj/sentinela)** | IT asset management system for companies, built for my Database I course | FastAPI, MySQL, JWT | [demo](https://sentinela.junimdev.com.br/) |
 | **ComputaTree** | Interactive map of the FCT-UNESP CS curriculum that tracks prerequisites and progress | JavaScript, JSON | [open](https://computa-tree.junimdev.com.br/) |
 
+### `~/freelance`
+
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| **Ópera Krios** | Institutional website for the junior architecture firm at UNESP Presidente Prudente. Statically generated, with no frontend framework and a Git-based CMS so the team can update content without touching code | Eleventy, Nunjucks, JavaScript, CSS, Sveltia CMS, Cloudflare Pages and Workers | [open](https://operakrios.com/) |
+
 ### `~/contact`
 
 <p align="left">
