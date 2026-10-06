@@ -15,7 +15,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠉⠓⠲⠴⠤⠤⠤⠤⠤⠖⠚⠉⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-I'm a Computer Science student at UNESP. Interested in DevOps, SRE and Infra.  
+I'm a Computer Science student at UNESP. Interested in DevOps, SRE and Cloud Infra.  
 I also enjoy building some projects to help the community or explore new tech innovations.  
 Open to opportunities.
 
