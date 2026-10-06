@@ -15,7 +15,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠉⠓⠲⠴⠤⠤⠤⠤⠤⠖⠚⠉⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-I'm a Computer Science student at UNESP. I enjoy building some projects to help the community or explore new tech innovations.
+I'm a Computer Science student at UNESP. Interested in DevOps, SRE and Infra.
+I also enjoy building some projects to help the community or explore new tech innovations.
 Open to opportunities.
 
 ### `~/skills`
